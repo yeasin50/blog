@@ -3,8 +3,9 @@
 HUGO = hugo
 HUGO_FLAGS =
 PUBLIC_DIR = public
+REPO = git@github.com:yeasin50/blog.git
 
-.PHONY: help serve build clean
+.PHONY: help serve build clean publish
 
 help:
 	@echo "Makefile for Hugo"
@@ -22,3 +23,11 @@ build:
 
 clean:
 	rm -rf $(PUBLIC_DIR)
+
+publish: build
+	cd $(PUBLIC_DIR) && \
+	git init && \
+	git checkout -B gh-pages && \
+	git add -A && \
+	git commit -m "Publish site" && \
+	git push -f $(REPO) gh-pages
