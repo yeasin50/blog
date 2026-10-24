@@ -1,0 +1,17 @@
+baseURL: "https://yeasin50.github.io/blog/"
+languageCode: en-us
+title: Md.Yeasin Sheikh
+
+theme: hugo-bearblog
+
+params:
+  social:
+    linkedin: "https://www.linkedin.com/in/mdyeasinsheikh/"
+    github: "https://github.com/yeasin50"
+    youtube: "https://www.youtube.com/@yt.yeasin50"
+    stackoverflow: "https://stackoverflow.com/users/story/md-yeasin-sheikh?embed=profile"
+    website: "https://yeasin50.github.io"
+    # will fix from  website /ping_me
+    reachme: "https://yeasin50.github.io/"
+
+
