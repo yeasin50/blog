@@ -2,9 +2,10 @@
 title: "How I Fell in Love with Coding"
 description: "trying to understand/tell why & when I fall for programing"
 date: 2026-10-19T20:00:00+06:00
+updatedAt: 2026-11-06T20:00:00+06:00
 weight: 1
 draft: false
-tags: ["programinng"]
+tags: ["programinng", "stackOverflow"]
 ---
 
 **Definition**  
@@ -123,3 +124,84 @@ Even during some university events, some companies wanted to hire me, but I stil
 > programming, reading books & a little academics
 
 ---
+
+## COVID
+
+Things were messed up, especially the economy. I had completed my first semester of COVID online. 
+This meant I had more time for programming and learning new stuff. I had to drop the semester.
+For the first time, my parents said no when I asked for money (yeah, even for tuition fees).
+Before that, I had always gotten whatever I asked for. Yes, they trusted me and raised me that way.
+After some time, I was taken back to my home (village).
+
+I had started Flutter before COVID. Since I was already doing Android development in Java, it came in handy.
+Now, I was focused only on OpenCV and Flutter. 
+I got my first remote internship offer, with a stipend, at a social app for travelers. The app was released into production.
+I kinda felt the work was too small for me. What I mean by *small* is that the work only took 1–3 hours a day at most.
+
+BTW, I was also working on OpenCV stuff at the same time. That's when I discovered(actively engaged) Stack Overflow,
+where people ask questions. So, I just started answering them. 
+Hell yeah, initially, it sucked. You would always find biased people, people proud of their so-called reputation who looked down on newcomers. Another key factor was regional bias :)
+Who cares? I just needed to help one person, the OP; if it solved the OP's problem, that was enough.
+I found Stack Overflow more interesting than my job. While my work project was already released and I didn't have much left to do or learn, I asked my PM if I could leave.
+They offered me 2–3x more(forgot exact rate), but I said that if they needed me, I would still be available, just not as an employee; like any other person on the internet.
+My PM had also seen me answering questions on Stack Overflow, where I had around 1–2k reputation at that point, I guess.
+Now I had all the time for bug hunting, answering questions, and building stuff that I liked.
+
+Boom! Stack Overflow, answering questions...
+
+### Back to Academics
+
+About a year after COVID, I enrolled in my academic program again.
+I had received quite a few good job offers, like $450/month from local companies and $45K/year from abroad.
+But I didn't join any of them. I did attend the interviews, passed a few rounds, and then simply skipped the offers.
+No, dear, I wasn't just testing myself. Well, that was true to some extent, but there was one major issue that made me turn down remote jobs: load shedding....
+Hell yeah, 4–8 hours of load shedding a day! Continuing my academics while working remotely wouldn't have been possible, so I had to decline those offers. However, over the next year, I got involved in a few projects for different companies from time to time, both local and foreign.
+Before my final year, I had only worked on projects for local organizations (including government organizations) and then handled bug fixes for a few others. Some people would just share code snippets they brought, bring existing projects that needed bug fixes or new features implemented on top of them.
+And yeah, most of those projects were from foreign clients and paid pretty well!
+I was doing but I wasn't even very aware of what freelancing was at that point. XD
+
+
+## stack overflow
+
+If you have dropped some semesters and the curriculum has changed, then you know what goes into it when you have to take courses with students from different semesters, with juniors, and no one knows you, while your other classmates have grown up together since the first semester...
+Yeah, I found a few old sections, which were called "old sections," made for students with semester gaps.
+
+So, one day, my teacher (who later became my supervisor) asked me what I had been doing besides academic. I said I liked answering questions on Stack Overflow. Later, I described what SO was.
+He knew my programming skills and had previously given me permission to take upper-level classes (Android) before.
+So he asked if I could get to #100 there. I said I could try.
+That semester, I only had 2–3 courses, and I just kept answering questions on Stack Overflow without focusing on anything else. It seems my supervisor had his eye on me... and one afternoon, he congratulated me on reaching #1.
+Ah, I checked then and found myself in 1st place... But in last moment I kinda became #2.
+BTW, I only answered Flutter questions, and I could tell exactly what was wrong just from the console.a
+
+
+## Freelancing
+
+After graduation, I moved into the city (10 min by bus) and started accepting freelancing tasks...
+No, I didn't focus on any platform. Once, a client asked me to join Upwork so that it would be easier for him. Beside I keep working for local as well.
+One interesting thing about me is that the places I have worked so far, multi-culture including foreign US and UK part-time jobs with good salaries, I had never applied to them... nor had I bargained over salaries. All I said to them was, just make sure that I understand the task. You guys handle the payment and all the stuff... I handle the code. 
+There are a few experiments[^experiment] I have done while working with different cultures.
+
+[^experiment]: How things works, how foreigners measure talent against cost (stipend); how different cultures operate and what they value; if you give someone an opportunity to scam you, will they; whether a cheap employee rate makes someone worth keeping or easy to lose if you decrease performance and the work doesn't provide the expected value. How language barriers work between the language you understand and the one you don't get at all... There are lots of experiments I have run myself. Could write a few posts, each with a specific one; yap, it costs :)
+
+
+## Job break
+
+If you earn in dollars and live in a country like Bangladesh, you can earn 10–20x more. Besides I live minimal lifestyle with expensive hardaware xd.
+So even working part-time (20h/w) was more than enough for me, and besides, I kept maintaining a few production projects that required 2–3h/w at most. Fixing few bugs was enough to cover my monthly expense; I miss it while Ai handle it :)
+
+**The reasons I took a break:**
+
+1. I had enough money.
+2. Want to become a one-man army who can build from idea to sale (system design, build, deploy, and maintain).
+3. Expand beyond just Flutter apps and do backend.
+4. The project didn't align with my values.
+
+About 4, you may ask why I joined it in the first place. Well, my finances got bad, the previous foreign project was lacking budget and project got suspended(became alive in 2026 again), I had free time, and I got scammed (from a experiment[^experiment]), lost a few things... TL;DR: money+...
+
+Yes, once they introduced the project I was going to work on, I said it didn't align with my values. (Note: this wasn't as bad as you may think, but I have quite strict principles. Even I don't like working on scrolling social media sites where users do doomscrolling.)
+Then the CTO said to give it a try and offered 2–3x more than what we had signed in the contract.
+Nah... I said I was fine with the contracted amount; no need to increase it. Money wasn't the issue, though I was working for it. My CTO split the tasks and assigned me only the ones where my principles wouldn't conflict. Yet, during the work, I told him if he could look for other devs.
+So he did, and when they joined; after two months, I told my PM, I guess I can leave now.
+Then the job break started... and full-scale personal growth.
+
+## All it takes a year
